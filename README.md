@@ -12,7 +12,7 @@ Python 3.11 environment for machine learning and deep learning research.
 ## Setup Instructions
 
 ### 1. Clone the repo
-git clone https://github.com/YOURUSERNAME/ml-environment-setup.git
+git clone https://github.com/rupayansaha/ml-environment-setup.git
 
 ### 2. Create conda environment
 conda env create -f environment.yml
